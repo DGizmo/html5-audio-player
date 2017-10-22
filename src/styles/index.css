@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #E2E2E2;
+}
+
+audio, button {
+  display: block;
+}
+
+.active {
+  background-color: blue;
+}
+
+.Volume {
+  display: none;
+}
+
+.Loop-form {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.Loop-form input {
+  display: inline-block;
+}
